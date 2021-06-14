@@ -1,2 +1,2 @@
 # 3d
-3d obj builder freebasic 3d printer
+3d obj builder 3d printer
