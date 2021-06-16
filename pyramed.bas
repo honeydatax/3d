@@ -29,6 +29,9 @@ sub linking(img as integer)
 	print #img,"f 3 1 2"
 	print #img,"f 3 1 4"
 	print #img,"f 4 1 2"
+	print #img,"f 2 3 4"
+	print #img,"f 4 3 2"
+	print #img,"f 3 2 4"
 
 end sub 
 
